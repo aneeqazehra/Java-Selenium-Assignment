@@ -1,0 +1,9 @@
+Java Installation and Configuration
+
+IDE (Eclipse/IntelliJ IDEA)
+
+Simple Java Project Creation
+
+Basic Hello World Program
+
+What is Selenium (WebDriver, IDE, Standalone Server)
